@@ -43,5 +43,5 @@ Alerts for due payments and other important updates
 # Contributions are welcome! Fork the repository and submit a pull request.
 
 **README.md URL:** https://github.com/priyaxtx/PG-Management-System/blob/main/README.md
-Contact:
+# Contact:
 For support, contact priyatripathi22444@gmail.com.
