@@ -34,7 +34,7 @@ Alerts for due payments and other important updates
 **License:** This project is licensed under the MIT License.
 
 Installation:
-Clone the Repository: git clone https://github.com/priyaxtx/pg-management-system
+Clone the Repository: git clone https://github.com/priyaxtx/PG-Management-System.git
 Set Up the Database: Configure the database in application.properties.
 Build and Run: Use Maven or Gradle to build the project, then run it with mvn spring-boot:run.
 Access the Application: Navigate to http://localhost:8080.
