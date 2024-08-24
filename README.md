@@ -42,4 +42,4 @@ Contributing:
 Contributions are welcome! Fork the repository and submit a pull request.
 
 Contact:
-For support, contact [your email address].
+For support, contact priyatripathi22444@gmail.com.
