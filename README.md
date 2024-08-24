@@ -33,11 +33,11 @@ Alerts for due payments and other important updates
 **Tools:** Maven for build management, Git for version control
 **License:** This project is licensed under the MIT License.
 
-Installation:
-Clone the Repository: git clone https://github.com/priyaxtx/PG-Management-System.git
-Set Up the Database: Configure the database in application.properties.
-Build and Run: Use Maven or Gradle to build the project, then run it with mvn spring-boot:run.
-Access the Application: Navigate to http://localhost:8080.
+# Installation:
+**Clone the Repository:** git clone https://github.com/priyaxtx/PG-Management-System.git
+**Set Up the Database:** Configure the database in application.properties.
+**Build and Run:** Use Maven to build the project, then run it with mvn spring-boot:run.
+**Access the Application:** Navigate to http://localhost:8080.
 
 # Contributing:
 # Contributions are welcome! Fork the repository and submit a pull request.
